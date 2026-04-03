@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
